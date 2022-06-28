@@ -49,7 +49,7 @@
 <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=Fastify&logoColor=white"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 </p>
 
-## 4GL
+## Rapid Application Development Tool
 
 <p align="center">
 <img alt="Powerbuilder" src="https://img.shields.io/badge/-Powerbuilder-informational">
